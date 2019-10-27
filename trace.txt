@@ -1,0 +1,48 @@
+Thu 12/13/18  06:25:23 PM
+
+directory: Simon Ellershaw ...
+TourfileA...
+NEWAISearchfile012.txt: good (length of tour is 56)
+NEWAISearchfile017.txt: good (length of tour is 1531)
+NEWAISearchfile021.txt: good (length of tour is 2847)
+NEWAISearchfile026.txt: good (length of tour is 1513)
+NEWAISearchfile042.txt: good (length of tour is 1152)
+NEWAISearchfile048.txt: good (length of tour is 14309)
+NEWAISearchfile058.txt: good (length of tour is 27607)
+NEWAISearchfile175.txt: good (length of tour is 23547)
+NEWAISearchfile180.txt: good (length of tour is 6600)
+NEWAISearchfile535.txt: good (length of tour is 63566)
+TourfileB...
+NEWAISearchfile012.txt: good (length of tour is 56)
+NEWAISearchfile017.txt: good (length of tour is 1456)
+NEWAISearchfile021.txt: good (length of tour is 2728)
+NEWAISearchfile026.txt: good (length of tour is 1502)
+NEWAISearchfile042.txt: good (length of tour is 1103)
+NEWAISearchfile048.txt: good (length of tour is 15726)
+NEWAISearchfile058.txt: good (length of tour is 29266)
+NEWAISearchfile175.txt: good (length of tour is 25641)
+NEWAISearchfile180.txt: good (length of tour is 39520)
+NEWAISearchfile535.txt: good (length of tour is 67733)
+
+Best tours:
+
+NEWAISearchfile012.txt: best tour has length 56
+NEWAISearchfile012.txt winners : Simon Ellershaw
+NEWAISearchfile017.txt: best tour has length 1456
+NEWAISearchfile017.txt winners : Simon Ellershaw
+NEWAISearchfile021.txt: best tour has length 2728
+NEWAISearchfile021.txt winners : Simon Ellershaw
+NEWAISearchfile026.txt: best tour has length 1502
+NEWAISearchfile026.txt winners : Simon Ellershaw
+NEWAISearchfile042.txt: best tour has length 1103
+NEWAISearchfile042.txt winners : Simon Ellershaw
+NEWAISearchfile048.txt: best tour has length 14309
+NEWAISearchfile048.txt winners : Simon Ellershaw
+NEWAISearchfile058.txt: best tour has length 27607
+NEWAISearchfile058.txt winners : Simon Ellershaw
+NEWAISearchfile175.txt: best tour has length 23547
+NEWAISearchfile175.txt winners : Simon Ellershaw
+NEWAISearchfile180.txt: best tour has length 6600
+NEWAISearchfile180.txt winners : Simon Ellershaw
+NEWAISearchfile535.txt: best tour has length 63566
+NEWAISearchfile535.txt winners : Simon Ellershaw
